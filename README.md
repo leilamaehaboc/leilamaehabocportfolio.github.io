@@ -1,6 +1,6 @@
 # WELCOME TO MY PORTFOLIO!
 
-#### Skills
+## Skills
 **Soft Skills
 - Collaboration, teamwork, time management, and adaptability
 
