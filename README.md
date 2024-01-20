@@ -52,7 +52,7 @@ Learned about the characteristics of cyber crime, security principles, technolog
 
 ![Cisco Networking Academy Cybersecurity Essentials Course](/assets/cybersecurityessentialscourse.webp)
 
-### Certification of Completion: SEO Tutorial for Beginners
+### Certificate of Completion: SEO Tutorial for Beginners
 
 ![Certification of Completion: SEO Tutorial for Beginners](/assets/seotutorialforbeginners.webp)
 
@@ -64,7 +64,7 @@ Learned about the characteristics of cyber crime, security principles, technolog
 
 ![Certificate of Completion: Introduction to YouTube SEO](/assets/introductiontoyt.webp)
 
-### Certification of Completion: Advanced SEO Program
+### Certificate of Completion: Advanced SEO Program
 
 ![Certification of Completion: Advanced SEO Program](/assets/advancedseo.webp)
 
