@@ -44,7 +44,7 @@ This course covers wide area network (WAN) technologies and quality of service (
 
 Learn what cybersecurity is and its potential impact to you. Understand the most common threats, attacks and vulnerabilities. Gain insights for how businesses protect their operations from attacks. Find the latest job trends and why cybersecurity continues to grow.
 
-![isco Networking Academy Introduction to Cybersecurity Course](/assets/introductiontocybersecutiy.webp)
+!(/assets/introductiontocybersecutiy.webp)
 
 ### Cisco Networking Academy Cybersecurity Essentials Course
 
