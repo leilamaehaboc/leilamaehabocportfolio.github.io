@@ -58,7 +58,7 @@ Learned about the characteristics of cyber crime, security principles, technolog
 
 ### Certificate of Completion: Introduction to SEO Fundamentals Training Course
 
-![Certificate of Completion: Introduction to SEO Fundamentals Training Course](/assets/seofundamentalstrainingcourse.webp)
+![Certificate of Completion: Introduction to SEO Fundamentals Training Course](/assets/seofundamentalstrianingcourse.webp)
 
 ### Certificate of Completion: Introduction to YouTube SEO
 
