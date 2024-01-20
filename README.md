@@ -1,7 +1,7 @@
 # WELCOME TO MY PORTFOLIO!
 
 ## Skills
-**Soft Skills
+**Soft Skills**
 - Collaboration, teamwork, time management, and adaptability
 
 **Problem-Solving Skills
