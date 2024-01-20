@@ -24,13 +24,13 @@
 - Elementary | Gueco Balibago Elementary School (_2014_)
 
 ## Work Experience
-**Virtual Assistant (_October 2023 - Present_)**
+**Virtual Assistant @ Gushwork (_October 2023 - Present_)**
 - Managing the CEO'S calendar or scheduling meetings.
 
-**Clothing Sorter (_September 2021 - September 2023_)**
+**Clothing Sorter @ Trendy ACY (_September 2021 - September 2023_)**
 - Inspecting, packing, labelling products, and preparing final packaged goods for shipment.
 
-**ESL Tutor (_2020_)**
+**ESL Tutor @GnGn Eikaiwa Phils., Inc. Clark (_2020_)**
 - Teaching English language and assesing regular quizzes and tests to Japanese students.
 
 ## Achievements
