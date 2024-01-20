@@ -1,6 +1,20 @@
-# Bachelor of Science in Information Technology Student
+# WELCOME TO MY PORTFOLIO!
 
-#### Technical Skills: Python, SQL, HTML, JavaScript
+#### Skills
+**Soft Skills
+- Collaboration, teamwork, time management, and adaptability
+
+**Problem-Solving Skills
+- Ability to analyze and solve complex problems using logical and critical thinking.
+
+**Software Engineering
+- Familiarity with software development methodologies, version control systems, and project management.
+
+**Programming Skills
+- Proficiency in programming languages such as Java, Python, and C++.
+
+**Web Development
+- Knowledge of web development technologies, including HTML, CSS, and JavaScript.
 
 ## Education
 - Bachelor of Science in Information Technology | Mabalacat City College (_Present_)								       		
@@ -30,34 +44,34 @@ This course covers wide area network (WAN) technologies and quality of service (
 
 Learn what cybersecurity is and its potential impact to you. Understand the most common threats, attacks and vulnerabilities. Gain insights for how businesses protect their operations from attacks. Find the latest job trends and why cybersecurity continues to grow.
 
-![Bike Study](/assets/introductiontocybersecutiy.webp)
+![Introduction to Cybersecurity Course](/assets/introductiontocybersecutiy.webp)
 
 ### Cisco Networking Academy Cybersecurity Essentials Course
 
 Learned about the characteristics of cyber crime, security principles, technologies, and procedures to defend networks. 
 
-![Bike Study](/assets/cybersecurityessentialscourse.webp)
+![Cybersecurity Essentials Course](/assets/cybersecurityessentialscourse.webp)
 
 ### Certification of Completion: SEO Tutorial for Beginners
 
-![Bike Study](/assets/seotutorialforbeginners.webp)
+![SEO Tutorial for Beginners](/assets/seotutorialforbeginners.webp)
 
 ### Certificate of Completion: Introduction to SEO Fundamentals Training Course
 
-![Bike Study](/assets/seofundamentalstrainingcourse.webp)
+![SEO Fundamentals Training Course](/assets/seofundamentalstrainingcourse.webp)
 
 ### Certificate of Completion: Introduction to YouTube SEO
 
-![Bike Study](/assets/introductiontoyt.webp)
+![Certificate of Completion: Introduction to YouTube SEO](/assets/introductiontoyt.webp)
 
 ### Certification of Completion: Advanced SEO Program
 
-![Bike Study](/assets/advancedseo.webp)
+![Certification of Completion: Advanced SEO Program](/assets/advancedseo.webp)
 
 ### Certificates of Recognition
 
-![Bike Study](/assets/recognition.webp)
+![Certificates of Recognition](/assets/recognition.webp)
 
 ### Developed an application named Xev-Curity
 
-![Bike Study](/assets/xevcurity.webp)
+![Developed an application named Xev-Curity](/assets/xevcurity.webp)
