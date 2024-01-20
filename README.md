@@ -20,7 +20,7 @@
 - Bachelor of Science in Information Technology | Mabalacat City College (_Present_)								       		
 - Associate in Computer Technology	| Mabalacat City College (_2022_)	 			        		
 - Information and Communication Technologies (Senior High School) | Malabanias Integrated School (_2020_)
-- Junior High School | Abundant Life School of Discovert Inc. (_2018_)
+- Junior High School | Abundant Life School of Discovery Inc. (_2018_)
 - Elementary | Gueco Balibago Elementary School (_2014_)
 
 ## Work Experience
