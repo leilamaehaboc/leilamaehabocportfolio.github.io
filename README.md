@@ -36,13 +36,13 @@
 ## Achievements
 ### CCNAv7: Enterprise Networking, Security, and Automation Course
 
-This course covers wide area network (WAN) technologies and quality of service (QoS) mechanisms used for secure remote access.
+Learned about wide area network (WAN) technologies and quality of service (QoS) mechanisms used for secure remote access.
 
 ![CCNAv7: Enterprise Networking, Security, and Automation Course](/assets/ccnav7.webp)
 
 ### Cisco Networking Academy Introduction to Cybersecurity Course
 
-Learn what cybersecurity is and its potential impact to you. Understand the most common threats, attacks and vulnerabilities. Gain insights for how businesses protect their operations from attacks. Find the latest job trends and why cybersecurity continues to grow.
+Learned what cybersecurity is and its potential impact to you. Understand the most common threats, attacks and vulnerabilities. Gain insights for how businesses protect their operations from attacks. Find the latest job trends and why cybersecurity continues to grow.
 
 ![Cisco Networking Academy Introduction to Cybersecurity Course](/assets/introductiontocybersecurity.webp)
 
