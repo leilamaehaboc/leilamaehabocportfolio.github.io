@@ -4,16 +4,16 @@
 **Soft Skills**
 - Collaboration, teamwork, time management, and adaptability
 
-**Problem-Solving Skills
+**Problem-Solving Skills**
 - Ability to analyze and solve complex problems using logical and critical thinking.
 
-**Software Engineering
+**Software Engineering**
 - Familiarity with software development methodologies, version control systems, and project management.
 
-**Programming Skills
+**Programming Skills**
 - Proficiency in programming languages such as Java, Python, and C++.
 
-**Web Development
+**Web Development**
 - Knowledge of web development technologies, including HTML, CSS, and JavaScript.
 
 ## Education
