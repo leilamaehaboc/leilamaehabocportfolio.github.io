@@ -8,6 +8,6 @@ style: |
     /* Replace ".logo" with the appropriate class or ID for your logo */
     .logo {
       width: 150px; 
-      height: auto; 
+      height: 250px; 
     }
   </style>
