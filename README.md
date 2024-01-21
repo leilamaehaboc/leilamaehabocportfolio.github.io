@@ -73,5 +73,6 @@ Learned about the characteristics of cyber crime, security principles, technolog
 ![Certificates of Recognition](/assets/recognition.webp)
 
 ### Developed an application named Xev-Curity
+[Publication](https://play.google.com/store/apps/details?id=com.xevcurity.capstone_project&fbclid=IwAR0S-kxupwe2tt0pvDRmAkKsU3yC35bopXcm6r587j6F685RF-BhYe_Tq50&pli=1)
 
 ![Developed an application named Xev-Curity](/assets/xevcurity.webp)
